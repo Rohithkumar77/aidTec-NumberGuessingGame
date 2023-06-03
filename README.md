@@ -10,6 +10,8 @@ Features:
   • It should allow users to guess the number within 10 attempts. It should provide feedback to the user after each guess, letting them know if their guess was too high or       too low.
   • It should declare the user as the winner if they guess the number correctly.
   • It should give the user the option to play again or quit the game.
+  
+  
 Steps to create the project:
   1. Open a new Python file in your favorite text editor or IDE.
   2. Write a welcome message to the user, asking them for their name and explaining the rules of the game.
