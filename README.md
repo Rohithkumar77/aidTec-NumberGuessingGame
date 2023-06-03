@@ -1,6 +1,8 @@
 # Info-aidTech-PythonIntern
 TASK 1:
 Number Guessing Game
+
+
 Features:
   • The game should have a clean and user-friendly interface.
   • It should allow users to input their name and start the game.
